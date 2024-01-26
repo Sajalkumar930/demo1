@@ -1,2 +1,2 @@
 # demo1
-it is my demo repo<br>author sajal kumar
+it is my demo repo<br>author Sajal Kumar
